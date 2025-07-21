@@ -16,7 +16,7 @@ from sklearn.model_selection import cross_val_score
 # 1. Load the data
 housing = pd.read_csv("housing.csv")
 
-# 2. Create a stratified test set based on income category
+# 2. Create a stratified test set based on income category.
 housing["income_cat"] = pd.cut(
     housing["median_income"],
     bins=[0., 1.5, 3.0, 4.5, 6., np.inf],
