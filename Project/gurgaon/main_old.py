@@ -40,7 +40,7 @@ num_attribs = housing.drop("ocean_proximity", axis=1).columns.tolist()
 cat_attribs = ["ocean_proximity"]
 
 # 5. Pipelines
-# Numerical pipeline
+# Numerical pipeline 
 num_pipeline = Pipeline([
     ("imputer", SimpleImputer(strategy="median")),
     ("scaler", StandardScaler()),
