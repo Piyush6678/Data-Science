@@ -1,0 +1,16 @@
+Actor,Film,Year of Release,Genre,Box Office ($M),IMDb Rating
+Actor A,Movie A,2011,Sci-Fi,938.66,8.9
+Actor B,Movie B,2022,Drama,432.5,5.8
+Actor C,Movie C,2009,Sci-Fi,724.39,6
+Actor D,Movie D,1998,Action,992.4,7.1
+Actor E,Movie E,2018,Horror,176.42,8.3
+Actor F,Movie F,1997,Fantasy,100.42,5.2
+Actor G,Movie G,1992,Fantasy,862.33,7.7
+Actor H,Movie H,2019,Sci-Fi,138.17,5.3
+Actor I,Movie I,2023,Horror,234.53,7.7
+Actor J,Movie J,2021,Action,656.59,6.9
+Actor K,Movie K,2012,Sci-Fi,180.05,6
+Actor L,Movie L,2017,Drama,727.51,9.4
+Actor M,Movie M,2015,Sci-Fi,282.73,6
+Actor N,Movie N,2014,Drama,779.62,8.8
+Actor O,Movie O,2010,Fantasy,980.96,6.3
